@@ -60,6 +60,7 @@
 *   [TweetDeck](https://tweetdeck.twitter.com/) - An advanced Twitter client for managing multiple accounts and searches.
 *   [Reddit Investigator](http://reddit-user-analyzer.netlify.app/) - Analyzes a Reddit user's comment history and statistics.
 *   [Picuki](https://www.picuki.com/) - An anonymous Instagram story viewer and profile browser.
+*   [Opsis](https://useopsis.com/) - A reverse email lookup that finds accounts linked to an email address, username or domain across 1000+ source modules.
 
 ## Domain, IP, Email & Certificate Search
 *   [SecurityTrails](https://securitytrails.com/) - Provides a comprehensive inventory of internet assets, including current and historical DNS and WHOIS data.
